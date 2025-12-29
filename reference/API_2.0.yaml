@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: API_2.0
   version: '1.0'
+  description: dfsdfsdfsd
 host: 'localhost:3000'
 schemes:
   - http
